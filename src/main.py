@@ -71,6 +71,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-Implementación de feature-1
-Hotfix 3 aplicado
-Hotfix 4 aplicado
