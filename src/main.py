@@ -71,5 +71,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# Línea agregada para probar diff y stash
-# Cambio temporal para revertir
